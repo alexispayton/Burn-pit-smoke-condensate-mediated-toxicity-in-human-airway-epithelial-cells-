@@ -2,7 +2,7 @@
 
 This code was generated to support the manuscript titled 'Burn pit smoke condensate-mediated toxicity in human airway epithelial cells', published in 2024 in Chemical Respiratory Toxicology (PMID:38652897). 
 
-> Ghosh A, Payton A*, Gallant SC, Rogers KL Jr, Mascenik T, Hickman E, Love CA, Schichlein KD, Smyth TR, Kim YH, Rager JE, Gilmour MI, Randell SH, Jaspers I. Burn Pit Smoke Condensate-Mediated Toxicity in Human Airway Epithelial Cells. Chem Res Toxicol. 2024 May 20;37(5):791-803. doi: 10.1021/acs.chemrestox.4c00064. Epub 2024 Apr 23. PMID: 38652897; PMCID: PMC11251002. 
+> Ghosh A, Payton A, Gallant SC, Rogers KL Jr, Mascenik T, Hickman E, Love CA, Schichlein KD, Smyth TR, Kim YH, Rager JE, Gilmour MI, Randell SH, Jaspers I. Burn Pit Smoke Condensate-Mediated Toxicity in Human Airway Epithelial Cells. Chem Res Toxicol. 2024 May 20;37(5):791-803. doi: 10.1021/acs.chemrestox.4c00064. Epub 2024 Apr 23. PMID: 38652897; PMCID: PMC11251002. 
 
 <p align="center">
 <img src = 'https://github.com/UNC-CEMALB/Burn-pit-smoke-condensate-mediated-toxicity-in-human-airway-epithelial-cells-/assets/69641855/fd33457d-0822-4788-91fc-ffbe044d2a6b' width = '600'>
